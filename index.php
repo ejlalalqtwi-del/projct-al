@@ -12,6 +12,7 @@
         <link rel="icon" type="image/x-icon" href="img/favicon.png" />
     </head>
     <body>
+            <h1 > ejlal</h1>
         <div id="layoutDefault">
             <div id="layoutDefault_content">
                 <main>
@@ -372,3 +373,4 @@
         <script src="js/scripts.js"></script>
     </body>
 </html>
+
